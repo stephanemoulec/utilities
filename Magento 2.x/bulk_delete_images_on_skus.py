@@ -40,7 +40,7 @@ def remove_images_from_product(sku):
         print(f"Failed to update SKU {sku}: {resp.text}")
 
 def main():
-    with open('delete_skus.txt', 'r') as f:
+    with open('delete_skus_images.txt', 'r') as f:
         skus = [line.strip() for line in f if line.strip()]
     for sku in skus:
         remove_images_from_product(sku)
