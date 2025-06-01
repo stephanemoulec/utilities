@@ -15,7 +15,7 @@ This project automates your reading workflow by connecting **Inoreader** and **W
 Perfect for anyone who curates a reading list, this integration ensures important content is stored for later reading, distraction-free and synced across devices.
 
 
-📘 [HOW-TO: Set up the Inoreader to Wallabag scenario](./inoreader_to_wallabag.md)
-🔗 Built with [Make.com](https://www.make.com)
-📥 Powered by Inoreader & Wallabag APIs
-🔒 Securely uses OAuth2 for authentication
+- 📘 [HOW-TO: Set up the Inoreader to Wallabag scenario](./Inoreader_to_Wallabag.md)
+- 🔗 Built with [Make.com](https://www.make.com)
+- 📥 Powered by Inoreader & Wallabag APIs
+- 🔒 Securely uses OAuth2 for authentication
